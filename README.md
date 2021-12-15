@@ -35,7 +35,7 @@ Our model achieves the following performance on :
 | NRD-r101   | ade20k (val) |   44.01         |      45.62       |
 | NRD-x101   |ade20k (val) |  44.34         |      46.35       |
 | NRD-r101   | pascal-context(val) |     52.31 (59 classes)       |      54.1 (59 classes)       |
-| NRD-r101   | pascal-context(val) |     47.5  (60 classes)      |      40.9 (60 classes)       |
+| NRD-r101   | pascal-context(val) |     47.5  (60 classes)      |      49.0 (60 classes)       |
 | NRD-r50   | Cityscapes (val) |   79.8         |      80.8       |
 | NRD-r101   | Cityscapes (val) |   80.7         |      82.0      |
 
